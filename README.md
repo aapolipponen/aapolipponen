@@ -1,8 +1,9 @@
-<img src="./banner.svg" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img alt="Aapo Lipponen" src="./banner-light.svg" width="100%">
+</picture>
 
-# Aapo Lipponen
-
-Currently building at **[Pajuniitty Technologies](https://pajuniitty.com)** doing software, computer vision and technical consulting.
+Currently building at **[Pajuniitty Technologies](https://pajuniitty.com)** doing software, computer vision and technical consulting.<br>
 Lukio student in Turku.
 
 ### Competitions & events
