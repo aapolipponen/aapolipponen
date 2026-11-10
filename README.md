@@ -10,6 +10,7 @@ Lukio student in Turku.
 
 <p>
   <img src="https://img.shields.io/badge/CanSat_Finland_2026-1st_Place-003399?style=for-the-badge" alt="CanSat Finland 2026 — 1st place">
+  <img src="https://img.shields.io/badge/SinceAI_Hackathon-Main_Prize_1st_Place-FFD700?style=for-the-badge" alt="SinceAI Hackathon — Main Prize, 1st Place">
   <img src="https://img.shields.io/badge/Campfire_Game_Jam_(Helsinki)-1st_Place-1f6feb?style=for-the-badge&logo=hackclub&logoColor=white" alt="Campfire Game Jam Helsinki — 1st place">
   <img src="https://img.shields.io/badge/JunctionX_Turku-2nd_Place-7c3aed?style=for-the-badge" alt="JunctionX Turku — 2nd place">
   <img src="https://img.shields.io/badge/Daydream_Game_Jam_(Helsinki)-7c3aed?style=for-the-badge&logo=hackclub&logoColor=white" alt="Daydream Game Jam Helsinki">
